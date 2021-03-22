@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileLab_UTS_33611</string>
+    <string name="nama">Nama : Islahatul Inayati</string>
+    <string name="nim">NIM : 00000033611</string>
+    <string name="kelas">Kelas : BL</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+    <string name="loginText">LOGIN</string>
+    <string name="title">MUSIC PLAYER</string>
+</resources>

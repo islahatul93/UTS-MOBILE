@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="250dp"
+    android:background="@color/krem">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/form_color"
+        android:gravity="center|top"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Selamat Datang"
+            android:textColor="@color/biru_2"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_marginTop="12dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Islahatul Inayati"
+            android:textColor="@color/biru_1"
+            android:textSize="25dp"
+            android:layout_marginTop="25.5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00000033459"
+            android:textColor="@color/biru_1"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/btnOk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OK"
+            android:layout_marginTop="25.5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
